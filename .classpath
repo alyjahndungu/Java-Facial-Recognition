@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacpp.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-android-arm.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-linux-arm.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="E:/dummy/JFaceRecog-master/JFaceRecog-master/lib/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
